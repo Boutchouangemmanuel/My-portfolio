@@ -24,4 +24,4 @@ No known bugs.
 You can provide feedback or raise any issues/ bugs through the following means:
 [BOUTCHOUANG EMMANUEL](emmanuelgireh@gmail.com)
 
-Copyright (c) 2022 **Zelipha Wambui**
+Copyright (c) 2023 **Boutchouang Emmanuel**
