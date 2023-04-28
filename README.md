@@ -6,7 +6,7 @@ This is a basic portfolio website hosted on github
 
 ## Live Site
 
-You can view it [here](https://zelipha.github.io/portfolio-landing_page)
+You can view it [here](https://github.com/Boutchouangemmanuel/My-portfolio)
 
 ## Known Bugs
 
