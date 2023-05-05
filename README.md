@@ -6,7 +6,7 @@ This is a basic portfolio website hosted on github
 
 ## Live Site
 
-You can view it [here](https://github.com/Boutchouangemmanuel/My-portfolio)
+You can view it [here](https://boutchouangemmanuel.github.io/My-portfolio/HTML/index.html)
 
 ## Known Bugs
 
